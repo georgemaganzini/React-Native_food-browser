@@ -36,6 +36,7 @@ const SearchScreen = () => {
 const styles = StyleSheet.create({
     background: {
         backgroundColor: '#fff',
+        flex: 1
     },
     text: {
         marginLeft: 15
